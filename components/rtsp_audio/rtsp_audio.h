@@ -15,7 +15,7 @@
 #include "esphome/components/microphone/microphone_source.h"
 #include "esphome/components/socket/socket.h"
 #include "esphome/core/component.h"
-#include "esphome/core/ring_buffer.h"
+#include "esphome/components/ring_buffer/ring_buffer.h"
 #include "gain.h"
 #include "high_cut_biquad.h"
 #include "low_cut_biquad.h"
